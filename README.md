@@ -8,6 +8,4 @@ RankUp is a comically full-featured prison ranking plugin. It allows players upg
 * **rankup.groups** do **NOT** do anything to it.
 
 ## Developed by
-* @Falkirks
-* @Bamuel
-* @Darunia18
+* @OrnielG
